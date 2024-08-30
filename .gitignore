@@ -1,0 +1,16 @@
+build/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+*.vcd
+.idea/
+.vscode/
+.DS_Store
