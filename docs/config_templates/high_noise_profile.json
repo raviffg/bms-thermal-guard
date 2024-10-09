@@ -1,0 +1,14 @@
+{
+  "_template": "High noise profile",
+  "project": "bms-thermal-guard",
+  "purpose": "Configuration template for four-cell battery-management thermal fault guard",
+  "status": "template_only_not_a_validated_operating_profile",
+  "source_of_truth": "Confirm supported keys against the current implementation before use.",
+  "parameters": {},
+  "metadata": {
+    "revision": "",
+    "created_utc": "",
+    "owner": "",
+    "notes": "Do not use for hardware deployment until reviewed."
+  }
+}
