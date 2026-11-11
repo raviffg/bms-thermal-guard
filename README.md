@@ -23,10 +23,3 @@ Cross-compiled for STM32G431. Not wired to a HAL in this repo on purpose -
   most of that latency, not the threshold.
 - The bench log is a softer short: trip at 3.0 s, then the can keeps climbing
   because a contactor cannot interrupt an internal short.
-
-
-## Expanded project documentation
-
-The `docs/` directory contains project-specific design notes, verification scenario specifications, operations guides, data contracts, configuration templates, safety notes, and project reference templates.
-
-**Important:** added documents are planning and review aids. They do not claim that tests have been executed, that placeholder configurations are supported runtime profiles, or that this project is certified for physical/clinical/production deployment. Confirm interfaces and limits against implementation and measured evidence.
